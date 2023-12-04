@@ -8,6 +8,6 @@ On Ubuntu:
 4. Edit ~/.bashrc and add the respective paths
 5. Run the TCL scripts to obtain trace files.
 6. Run the AWK files using trace files as:
-   awk -f filename.awk filename.tr or 
+   awk -f filename.awk filename.tr 
 
 
